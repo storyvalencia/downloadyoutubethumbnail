@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.daa33560.css",
-    "main.js": "/static/js/main.91a70937.js",
+    "main.css": "/static/css/main.afc3041c.css",
+    "main.js": "/static/js/main.32a2b0d7.js",
+    "static/media/YouTube thumbnail images.jpeg": "/static/media/YouTube thumbnail images.b01f3996e4a9f358d8b6.jpeg",
+    "static/media/YouTube thumbnail downloader.jpeg": "/static/media/YouTube thumbnail downloader.dfead7b9ecdb65afe836.jpeg",
+    "static/media/Free and customizable YouTube thumbnail templates.jpeg": "/static/media/Free and customizable YouTube thumbnail templates.416fb7d035a477592c03.jpeg",
+    "static/media/How to create great YouTube thumbnails.png": "/static/media/How to create great YouTube thumbnails.09ee7a3555f929b69dac.png",
+    "static/media/Why YouTube tumbnail is so important.jpeg": "/static/media/Why YouTube tumbnail is so important.561aaa461b846e13ae1f.jpeg",
+    "static/media/YouTube thumbnail image view and download.jpeg": "/static/media/YouTube thumbnail image view and download.f6366ee8b76a29f1c58b.jpeg",
+    "static/media/download YouTube Thumbnail 2.png": "/static/media/download YouTube Thumbnail 2.0fe4d42103a3f638300f.png",
     "index.html": "/index.html",
-    "main.daa33560.css.map": "/static/css/main.daa33560.css.map",
-    "main.91a70937.js.map": "/static/js/main.91a70937.js.map"
+    "main.afc3041c.css.map": "/static/css/main.afc3041c.css.map",
+    "main.32a2b0d7.js.map": "/static/js/main.32a2b0d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.daa33560.css",
-    "static/js/main.91a70937.js"
+    "static/css/main.afc3041c.css",
+    "static/js/main.32a2b0d7.js"
   ]
 }
